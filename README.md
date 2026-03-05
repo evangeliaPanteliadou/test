@@ -10,3 +10,4 @@ This will install all the necessary dependencies.
 
 Launches the application.
 
+test
